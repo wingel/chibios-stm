@@ -1,0 +1,2 @@
+c-basic-offset: 4
+compile-command: (concat "cd " (file-name-directory (dirvars-find-upwards ".emacs-dirvars")) " && ./build.sh && ./prog.sh ")
