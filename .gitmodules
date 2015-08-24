@@ -1,3 +1,6 @@
 [submodule "ChibiOS-RT"]
 	path = ChibiOS-RT
 	url = https://github.com/ChibiOS/ChibiOS-RT.git
+[submodule "dfu-util"]
+	path = dfu-util
+	url = git://git.code.sf.net/p/dfu-util/dfu-util
